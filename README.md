@@ -34,6 +34,20 @@ This is a full-stack issue tracker application with:
     └── vite.config.js
 ```
 
+## Application Screenshots
+
+### Dashboard with Filters
+![Dashboard with all filters](images/image1.png)
+
+### Create Issue Form
+![Create Issue Form](images/image2.png)
+
+### Issue Details View
+![Issue Details View](images/image3.png)
+
+### JSON Response Format
+![JSON Response Format](images/image4.png)
+
 ## Backend Setup
 
 1. Navigate to the backend directory:
@@ -80,7 +94,7 @@ The backend server will run on http://localhost:5001
    npm run dev
    ```
 
-The frontend will run on http://localhost:3001
+The frontend will run on http://localhost:3000
 
 ## API Endpoints
 
